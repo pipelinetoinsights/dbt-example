@@ -1,0 +1,14 @@
+version: 2
+models:
+  - name: int_order_summary
+    columns:
+      - name: customer_id
+        tests:
+          - not_null
+
+  - name: int_payment_summary
+    columns:
+      - name: customer_id
+        tests:
+          - unique
+          - not_null

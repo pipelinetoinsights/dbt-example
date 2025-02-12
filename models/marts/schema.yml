@@ -1,0 +1,14 @@
+version: 2
+models:
+  - name: mart_customer_lifetime_value
+    columns:
+      - name: customer_id
+        tests:
+          - not_null
+
+  - name: mart_orders_payments
+    columns:
+      - name: order_id
+        tests:
+          - unique
+          - not_null

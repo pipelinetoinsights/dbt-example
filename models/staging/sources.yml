@@ -1,0 +1,8 @@
+version: 2
+sources:
+  - name: raw_data
+    schema: public 
+    tables:
+      - name: orders
+      - name: customers
+      - name: payments  
