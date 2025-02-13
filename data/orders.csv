@@ -1,0 +1,6 @@
+order_id,customer_id,status,total_amount,order_date
+101,1,shipped,250.5,2024-01-01
+102,2,pending,100.0,2024-01-02
+103,1,delivered,175.75,2024-01-03
+104,3,cancelled,200.0,2024-01-04
+105,4,shipped,99.99,2024-01-05

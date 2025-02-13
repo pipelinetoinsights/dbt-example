@@ -1,0 +1,6 @@
+payment_id,order_id,customer_id,payment_method,payment_amount,payment_status
+501,101,1,credit_card,250.5,completed
+502,102,2,paypal,100.0,pending
+503,103,1,credit_card,175.75,completed
+504,104,3,bank_transfer,200.0,failed
+505,105,4,paypal,99.99,completed
