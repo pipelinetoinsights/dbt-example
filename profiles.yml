@@ -4,8 +4,8 @@ ecommerce_project:
     dev:
       type: postgres
       host: localhost
-      user: user_name
-      password: password
+      user: my_user
+      password: "my_password"
       port: 5432
-      dbname: dbname
-      schema: schema_name
+      dbname: my_db
+      schema: public
