@@ -1,5 +1,9 @@
 # Example dbt Project
 
+This is an example dbt project prepared by [Pipeline To Insights](https://pipeline2insights.substack.com/) for tutorial purposes. Check out full blog post for more details.
+
+🔗 [Full Post](post-link) 
+
 ## Overview
 
 This dbt project transforms raw e-commerce data into clean, analytics-ready tables by following a layered approach:
