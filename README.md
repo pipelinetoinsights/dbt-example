@@ -2,7 +2,7 @@
 
 This is an example dbt project prepared by [Pipeline To Insights](https://pipeline2insights.substack.com/) for tutorial purposes. Check out full blog post for more details.
 
-🔗 [Full Post](post-link) 
+🔗 [Full Post](https://open.substack.com/pub/pipeline2insights/p/dbt-in-action-1-fundamentals?r=p5bpr&utm_campaign=post&utm_medium=web&showWelcomeOnShare=false) 
 
 ## Overview
 
